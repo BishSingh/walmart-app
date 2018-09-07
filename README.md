@@ -7,7 +7,7 @@ UX of the app was designed by me keeping **Walmart Branding Guide** in mind.
 
 ### Apk Direct Download Link
 
-https://github.com/BishSingh/walmart-app/blob/master/walmart-app-debug.apk
+https://github.com/BishSingh/walmart-app/blob/master/walmart-android-debug.apk
 
 ### Testing the app
 - Download the apk from link above. 
