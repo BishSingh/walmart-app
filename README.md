@@ -1,2 +1,2 @@
-# walmart-app
-Android Test App for Walmart
+# walmart-test-app
+Test app using Walmart Apis
