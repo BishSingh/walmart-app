@@ -19,6 +19,14 @@ https://github.com/BishSingh/walmart-app/blob/master/walmart-app-debug.apk
 
 https://github.com/BishSingh/walmart-app/blob/master/2018_09_07_00_11_58.mp4
 
+### Some minor things to observe
+
+- Supports Landscape & Portrait Rotation as ViewModels were used.
+- Error state handling when a product is not found
+- Each item in the product recommendation is clickable
+- Maintains only one instance of product reco activity
+- Showing only 10 items as it was a requirement for now
+
 App has used latest Android technologies. Below are a list of components in use:
 - Archtecture Components : Android Jetpack https://developer.android.com/jetpack/
 - Android ViewModels: https://developer.android.com/topic/libraries/architecture/viewmodel
