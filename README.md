@@ -11,7 +11,7 @@ https://github.com/BishSingh/walmart-app/blob/master/walmart-app-debug.apk
 
 ### Testing the app
 - Download the apk from link above. 
-- Look for **Walamart** app after the install.
+- Look for **Walmart** app after the install.
 - Search any product you would like to buy at Walmart.
 - Clicking on search item will take to product recommendatios page.
 
