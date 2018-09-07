@@ -7,6 +7,7 @@ UX of the app was designed by me keeping **Walmart Branding Guide** in mind.
 
 ### Apk Direct Download Link
 
+https://github.com/BishSingh/walmart-app/blob/master/walmart-app-debug.apk
 
 ### Testing the app
 - Download the apk from link above. 
@@ -16,13 +17,9 @@ UX of the app was designed by me keeping **Walmart Branding Guide** in mind.
 
 ### App Video Recording:
 
+https://github.com/BishSingh/walmart-app/blob/master/2018_09_07_00_11_58.mp4
 
-
-
-Below are some screenshots of the app:
-
-
-App has used latest Android technologies. Below are a list of componenst in use:
+App has used latest Android technologies. Below are a list of components in use:
 - Archtecture Components : Android Jetpack https://developer.android.com/jetpack/
 - Android ViewModels: https://developer.android.com/topic/libraries/architecture/viewmodel
 - LiveData: https://developer.android.com/topic/libraries/architecture/livedata
@@ -33,6 +30,20 @@ App has used latest Android technologies. Below are a list of componenst in use:
 - ButterKnife : http://jakewharton.github.io/butterknife/
 - gson : https://github.com/google/gson
 - Timber : https://github.com/JakeWharton/timber
+
+### App screenshots
+
+![alt text](https://github.com/BishSingh/walmart-app/blob/master/Screenshot_20180906-235826.png)
+
+![alt text](https://github.com/BishSingh/walmart-app/blob/master/Screenshot_20180906-235907.png)
+
+![alt text](https://github.com/BishSingh/walmart-app/blob/master/Screenshot_20180907-000053.png)
+
+![alt text](https://github.com/BishSingh/walmart-app/blob/master/Screenshot_20180907-004309.png)
+
+
+
+
 
   
   
