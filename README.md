@@ -1,7 +1,7 @@
 # walmart-app
 
 ### Description 
-Native Android App that implements Walmart's product search and Product Recommendations using **Walmart Labs Open Apis**. Built with latest Adroid Architecture Components of Android JetPack. 
+Native Android App that implements Walmart's product search and Product Recommendations using **Walmart Labs Open Apis**. Built with latest Android Architecture Components of Android JetPack. 
 
 UX of the app was designed by me keeping **Walmart Branding Guide** in mind.
 
