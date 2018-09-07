@@ -1,2 +1,38 @@
 # walmart-app
-Test app using Walmart Apis
+
+### Description 
+Native Android App that implements Walmart's product search and Product Recommendations using **Walmart Labs Open Apis**. Built with latest Adroid Architecture Components of Android JetPack. 
+
+UX of the app was designed by me keeping **Walmart Branding Guide** in mind.
+
+### Apk Direct Download Link
+
+
+### Testing the app
+- Download the apk from link above. 
+- Look for **Walamart** app after the install.
+- Search any product you would like to buy at Walmart.
+- Clicking on search item will take to product recommendatios page.
+
+### App Video Recording:
+
+
+
+
+Below are some screenshots of the app:
+
+
+App has used latest Android technologies. Below are a list of componenst in use:
+- Archtecture Components : Android Jetpack https://developer.android.com/jetpack/
+- Android ViewModels: https://developer.android.com/topic/libraries/architecture/viewmodel
+- LiveData: https://developer.android.com/topic/libraries/architecture/livedata
+- Dagger2 for dependency injection: https://github.com/google/dagger
+- Picasso for Image Decoding: http://square.github.io/picasso/
+- Retrofit2 : https://square.github.io/retrofit/
+- okHttp3 : http://square.github.io/okhttp/
+- ButterKnife : http://jakewharton.github.io/butterknife/
+- gson : https://github.com/google/gson
+- Timber : https://github.com/JakeWharton/timber
+
+  
+  
