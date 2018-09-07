@@ -1,2 +1,2 @@
-# walmart-test-app
+# walmart-app
 Test app using Walmart Apis
