@@ -54,6 +54,8 @@
         android:ellipsize="end"
         android:fontFamily="@font/boglebold"
         android:layout_gravity="center_horizontal"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
         android:maxLines="4"
         android:layout_marginTop="10dp"
         android:textSize="14sp" />
