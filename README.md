@@ -21,6 +21,7 @@ https://github.com/BishSingh/walmart-app/blob/master/2018_09_07_00_11_58.mp4
 
 ### Some minor things to observe
 
+- Uses Walmart Bagel Font.Colors and assets are all taken from Branding guide.
 - Supports Landscape & Portrait Rotation as ViewModels were used.
 - Error state handling when a product is not found
 - Each item in the product recommendation is clickable
